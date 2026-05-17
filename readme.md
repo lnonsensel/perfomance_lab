@@ -1,6 +1,5 @@
 # Дерево файлов:
 ```
-```
 .
 ├── author.txt
 ├── readme.md
@@ -21,5 +20,4 @@
     └── test_file.txt
 
 5 directories, 13 files
-```
 ```
